@@ -1,0 +1,5 @@
+pour le 12/11 :
+	-> afficher panier et produits
+	-> recuperer un tab associatif avec les prod_m getallprod
+	-> vue pour afficher tableau : type, nom, prix, lien (id) client_c ajouter panier
+	-> tab asso avec contenu panier pour client where id_commande null => need model pour panier w/ getall
