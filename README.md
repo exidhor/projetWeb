@@ -1,5 +1,5 @@
 Partie 1 : Création de la base et des
-enregistrements pour avoir un jeu de test original      DONE
+enregistrements pour avoir un jeu de test original    \t  DONE
 
 Partie 2 : formulaire de commandes et frontOffice
 * affichage du panier
